@@ -1,4 +1,4 @@
-## Abolishing-QOF-Incentives
+## Abolishing QOF Incentives
 
 #### STATA code for running the multiple group analysis
 
