@@ -1,6 +1,6 @@
 ## Abolishing QOF Incentives
 
-#### STATA code for running the multiple group analysis plotting the counterfactual adjusted for comparator effects
+#### STATA code for running the multiple group analysis and plotting the counterfactual adjusted for comparator effects
 
 tsset country year
 itsa y, treatid(1) trperiod(2017) figure(legend(position(6)) xlabel(2014(1)2019,  ///
